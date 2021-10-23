@@ -1,0 +1,7 @@
+.newsCard{
+    display: flex;
+    flex-direction: column;
+}
+.readMoreBtn{
+    margin-top: auto;
+}
